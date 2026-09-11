@@ -534,11 +534,12 @@ drip-kofi/
 │   ├── desktop-view.png
 │   ├── tablet-view.png
 │   ├── mobile-view.png
-│   ├── navigation-bar.png
+│   ├── navigation.png
 │   ├── hero-section.png
 │   ├── features-section.png
 │   ├── pricing-section.png
 │   ├── testimonials.png
+│   ├── call-to-action.png
 │   ├── footer.png
 │   ├── blade-components-folder.png
 │   └── github-repository.png
@@ -642,7 +643,7 @@ The mobile screenshot demonstrates the mobile-first responsive layout.
 
 The navigation bar provides users with quick access to the main sections of the website.
 
-![Navigation Bar](screenshots/navigation-bar.png)
+![Navigation Bar](screenshots/navigation.png)
 
 ### Hero Section
 
@@ -681,6 +682,8 @@ The Testimonials Section displays customer feedback and reviews to help build tr
 
 The Call-to-Action section encourages visitors to take action, such as exploring the menu, registering, contacting the business, or starting an order.
 
+![Call to Action](screenshots/call-to-action.png)
+
 ### Footer
 
 The Footer contains the business information, quick links, social media links, contact information, and copyright information.
@@ -709,7 +712,7 @@ This screenshot shows the project's GitHub repository and demonstrates the use o
 ![GitHub Repository](screenshots/github-repository.png)
 
 > 📌 Ensure the following image files exist inside a `screenshots/` folder at the root of the repository so they render correctly on GitHub:
-> `desktop-view.png`, `tablet-view.png`, `mobile-view.png`, `navigation-bar.png`, `hero-section.png`, `features-section.png`, `pricing-section.png`, `testimonials.png`, `footer.png`, `blade-components-folder.png`, `github-repository.png`
+> `desktop-view.png`, `tablet-view.png`, `mobile-view.png`, `navigation.png`, `hero-section.png`, `features-section.png`, `pricing-section.png`, `testimonials.png`, `call-to-action.png`, `footer.png`, `blade-components-folder.png`, `github-repository.png`
 
 ---
 
